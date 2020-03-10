@@ -1,0 +1,14 @@
+C:\Users\HEWLETT PACKARD\Desktop\MusicPlayerApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\HEWLETT PACKARD\Desktop\MusicPlayerApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HEWLETT PACKARD\Desktop\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.ResolveComReference.cache
+C:\Users\HEWLETT PACKARD\Desktop\MusicPlayerApp\obj\Debug\MusicPlayerApp.MusicPlayerApp.resources
+C:\Users\HEWLETT PACKARD\Desktop\MusicPlayerApp\obj\Debug\MusicPlayerApp.Properties.Resources.resources
+C:\Users\HEWLETT PACKARD\Desktop\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.GenerateResource.cache
+C:\Users\HEWLETT PACKARD\Desktop\MusicPlayerApp\bin\Debug\MusicPlayerApp.exe.config
+C:\Users\HEWLETT PACKARD\Desktop\MusicPlayerApp\bin\Debug\MusicPlayerApp.exe
+C:\Users\HEWLETT PACKARD\Desktop\MusicPlayerApp\bin\Debug\MusicPlayerApp.pdb
+C:\Users\HEWLETT PACKARD\Desktop\MusicPlayerApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\HEWLETT PACKARD\Desktop\MusicPlayerApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HEWLETT PACKARD\Desktop\MusicPlayerApp\obj\Debug\MusicPlayerApp.exe
+C:\Users\HEWLETT PACKARD\Desktop\MusicPlayerApp\obj\Debug\MusicPlayerApp.pdb
+C:\Users\HEWLETT PACKARD\Desktop\MusicPlayerApp\obj\Debug\MusicPlayerApp.csprojResolveAssemblyReference.cache
